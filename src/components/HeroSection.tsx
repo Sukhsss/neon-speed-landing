@@ -18,7 +18,7 @@ const HeroSection = () => {
           </p>
           
           <div className="pt-4">
-            <button className="btn-primary btn-ripple hover-glow text-lg px-10 py-5">
+            <button className="btn-primary text-lg px-10 py-5">
               Buy Now For Just ₹299 <span className="line-through opacity-60 ml-2">₹9999</span>
             </button>
           </div>
