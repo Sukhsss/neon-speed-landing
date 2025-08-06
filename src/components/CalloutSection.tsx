@@ -50,7 +50,7 @@ const CalloutSection = () => {
         
         {/* CTA Button */}
         <div className="pt-8 animate-fade-up" style={{ animationDelay: '0.6s' }}>
-          <button className="btn-primary text-xl px-12 py-6">
+          <button className="btn-primary btn-ripple hover-glow text-xl px-12 py-6">
             Buy The Templates At Just ₹299 <span className="line-through opacity-60 ml-2">₹9999</span>
           </button>
         </div>

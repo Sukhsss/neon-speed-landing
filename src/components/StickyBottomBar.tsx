@@ -46,7 +46,7 @@ const StickyBottomBar = () => {
         </div>
         
         <div className="flex items-center gap-4">
-          <button className="btn-primary text-xs md:text-sm">
+          <button className="btn-primary btn-ripple hover-glow text-xs md:text-sm">
             Buy The Templates At Just ₹299 <span className="line-through opacity-60">₹9999</span>
           </button>
           
